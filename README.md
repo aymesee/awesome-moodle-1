@@ -15,6 +15,7 @@ MoodleBites: http://www.moodlebites.com/
 
 
 # Tutorials
+Moodle Tutorials: https://www.lynda.com/Moodle-training-tutorials/257-0.html
 
 # Development
 Moodle Development: https://docs.moodle.org/dev/Main_Page
